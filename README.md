@@ -11,14 +11,6 @@ I made a simple chatbot that can answer questions about Python programming. It's
 
 It's not super smart like the AI in movies, but it actually works! I built it using only the stuff I've learned in my first semester.
 
-## **How to Use It**
-
-1. Download the `study_bot.py` file
-2. Open your command prompt (I just learned how to do this!)
-3. Type: `python study_bot.py`
-4. Ask it any question about Python
-5. Type "quit" when you're done
-
 ## **How I Made It**
 
 I used these things from my classes:
