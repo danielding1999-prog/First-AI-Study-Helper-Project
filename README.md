@@ -1,4 +1,4 @@
-# **My First AI Project - Study Helper** 📚
+# **My First AI Project - Study Helper** 
 
 Hi! I'm a first-year student in Software Engineering at Centennial College, and this is my first try at making something with AI. I'm really excited to share this project because it's the first real program I've built from scratch!
 
@@ -40,8 +40,7 @@ When I learn more, I want to:
 
 I'm just starting my programming journey at Centennial College. Before this, I worked in sales for 3 years, but I realized I love technology and problem-solving. This is my first real coding project, and I'm really proud of it even though it's simple!
 
-If you're also learning to code, feel free to use this project or give me suggestions! 😄
 
 ---
 
-*P.S. If you find any bugs, sorry! I'm still learning!* 🐛
+*P.S. If you find any bugs, sorry! I'm still learning!* 
